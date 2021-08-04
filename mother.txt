@@ -1,0 +1,24 @@
+<html>
+<head>
+<link rel = "icon" href = "/favicon.ico" type = "image/x-icon">
+<title> masha_photograph </title>
+</head>
+<body>
+<table border="1" bgcolor="" width="100%" height="100%">
+<tbody><tr height="70">
+<td colspan="2" align="center" bgcolor="52 52 52">
+<font color="gray" size="6">тестТЕСТ</font>
+</td>
+</tr>
+<tr height=""> 
+<td valign="top" bgcolor="">  </td>
+</tr>
+<tr>
+<td colspan="3" height="150" align="center" valign="middle" bgcolor="">  </td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
+

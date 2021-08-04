@@ -1,0 +1,464 @@
+
+
+
+
+.animation__circle_1{
+
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #40919c;
+position: relative;
+animation-name: circle_1;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                     animation-delay: 0s;
+box-shadow: 0 20px 0px #2b6569;
+}
+
+@keyframes circle_1{
+50%{
+top: 10px;
+box-shadow: 0 10px 0px #2b656992;
+	background-color: #40919c92;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #2b6569;
+	background-color: #40919c;
+}
+}
+
+
+.animation__circle_2{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #699c40;
+position: relative;
+animation-name: circle_2;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                     animation-delay: 0.2s;
+	box-shadow: 0 20px 0px #36692b ;
+}
+
+@keyframes circle_2{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #36692b92;
+	background-color:#699c4092;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #36692b ;
+	background-color: #699c40;
+}
+}
+
+
+.animation__circle_3{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #b74c8e;
+position: relative;
+animation-name: circle_3;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                     animation-delay: 0.4s;
+box-shadow: 0 20px 0px #733072;
+}
+
+@keyframes circle_3{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #73307292;
+	background-color: #b74c8e92;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #733072;
+	background-color: #b74c8e;
+}
+}
+
+
+.animation__circle_4{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #ce6831;
+position: relative;
+animation-name: circle_4;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                     animation-delay: 0.6s;
+box-shadow: 0 20px 0px #885011;
+}
+
+@keyframes circle_4{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #88501192;
+	background-color: #ce683192;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #885011;
+	background-color: #ce6831;
+}
+}
+
+
+.animation__circle_5{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #c33a6f;
+position: relative;
+animation-name: circle_5;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                     animation-delay: 0.2s;
+box-shadow: 0 20px 0px #840c5c;
+}
+
+@keyframes circle_5{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #840c5c92;
+	background-color: #c33a6f92;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #840c5c;
+	background-color: #c33a6f;
+}
+}
+
+
+.animation__circle_6{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #9743bd;
+position: relative;
+animation-name: circle_6;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                     animation-delay: 0.4s;
+box-shadow: 0 20px 0px #6b168a;
+}
+
+@keyframes circle_6{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #6b168a92;
+	background-color: #9743bd92;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #6b168a;
+	background-color: #9743bd;
+}
+}
+
+
+.animation__circle_7{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #afafaf;
+position: relative;
+animation-name: circle_7;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                    animation-delay: 0.6s;
+box-shadow: 0 20px 0px #808080;
+}
+
+@keyframes circle_7{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #80808092;
+	background-color: #afafaf92;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #808080;
+	background-color: #afafaf;
+}
+}
+
+
+
+
+
+
+
+
+
+
+.animation__circle_8{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #73bd68;
+position: relative;
+animation-name: circle_8;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                    animation-delay: 0.8s;
+	box-shadow: 0 20px 0px #498650 ;
+}
+
+@keyframes circle_8{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #49865092;
+	background-color: #73bd6892;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #498650 ;
+	background-color: #73bd68;
+}
+}
+
+
+
+
+.animation__circle_9{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #c055ca;
+position: relative;
+animation-name: circle_9;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                    animation-delay: 0.4s;
+box-shadow: 0 20px 0px #854188;
+}
+
+@keyframes circle_9{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #85418892;
+	background-color: #c055ca92;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #854188;
+	background-color: #c055ca;
+}
+}
+
+
+.animation__circle_10{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #ce7631;
+position: relative;
+animation-name: circle_10;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                     animation-delay: 0.6s;
+box-shadow: 0 20px 0px #735117;
+}
+
+@keyframes circle_10{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #73511792;
+	background-color: #ce763192;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #735117;
+	background-color: #ce7631;
+}
+}
+
+
+
+.animation__circle_11{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #c33a3a;
+position: relative;
+animation-name: circle_11;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                     animation-delay: 0.8s;
+box-shadow: 0 20px 0px #840c0c;
+}
+
+@keyframes circle_11{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #840c0c92;
+	background-color: #c33a3a92;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #840c0c;
+	background-color: #c33a3a;
+}
+}
+
+
+
+.animation__circle_12{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #dc7e7e;
+position: relative;
+animation-name: circle_12;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                     animation-delay: 1s;
+box-shadow: 0 20px 0px #945a5a;
+}
+
+@keyframes circle_12{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #945a5a92;
+	background-color: #dc7e7e92;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #945a5a;
+	background-color: #dc7e7e;
+}
+}
+
+
+
+
+
+.animation__circle_13{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #dadada;
+position: relative;
+animation-name: circle_13;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                      animation-delay: 0.6s;
+box-shadow: 0 20px 0px #b0b0b0;
+}
+
+@keyframes circle_13{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #b0b0b092;
+	background-color: #dadada92;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #b0b0b0;
+	background-color: #dadada;
+}
+}
+
+
+.animation__circle_14{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #737373;
+position: relative;
+animation-name: circle_14;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                     animation-delay: 0.8s;
+box-shadow: 0 20px 0px #404040;
+}
+
+@keyframes circle_14{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #40404092;
+	background-color: #73737392;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #404040;
+	background-color: #737373;
+}
+}
+
+
+.animation__circle_15{
+
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #40499c;
+position: relative;
+animation-name: circle_15;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                     animation-delay: 1s;
+box-shadow: 0 20px 0px #2b3769;
+}
+
+@keyframes circle_15{
+50%{
+top: 10px;
+box-shadow: 0 10px 0px #2b376992;
+	background-color: #40499c92;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #2b3769;
+	background-color: #40499c;
+}
+}
+
+.animation__circle_16{
+width: 90%;
+height: 90%;
+border-radius: 40px;
+background-color: #737373;
+position: relative;
+animation-name: circle_14;
+animation-duration: 1.25s;
+animation-iteration-count: 1;
+                                                     animation-delay: 1.2s;
+box-shadow: 0 20px 0px #404040;
+}
+
+@keyframes circle_14{
+50%{
+border-radius: 20px;
+top: 10px;
+box-shadow: 0 10px 0px #40404092;
+	background-color: #73737392;
+}
+100%{
+top: 0%;
+	box-shadow: 0 20px 0px #404040;
+	background-color: #737373;
+}
+}
